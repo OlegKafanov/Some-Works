@@ -14,7 +14,7 @@
 - Sem 6: Transfer learning. Использование AlexNet для улучшения результатов Sem 3. 
 - Sem 13: Обучение с подкреплением. 
 
-# 3. Binary Search 
+# 3. Boolean Search 
 Д/з в рамках курса техносферы "информационный поиск"
 
 Описание по ссылке https://github.com/dkrotx/ts-idx-2016 
